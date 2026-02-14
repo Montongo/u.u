@@ -120,7 +120,7 @@ function showMessage(response) {
     yesMessage.textContent = "Te veo en un ratillo corazón ♡  ";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/dance.gif";
+    document.getElementsByClassName("image")[0].src = "images/kibo.gif";
 
     // Remove the "Yes" button
     document.getElementById("yesButton").remove();
